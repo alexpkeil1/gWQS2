@@ -1,0 +1,14 @@
+Package: gWQS2
+Type: Package
+Title: Generalized Weighted Quantile Sum Regression
+Version: 1.0
+Author: Alex Keil
+Maintainer: Alex Keil <akeil@unc.edu>
+Description: An exact copy of the gWQS package (v1.1.0), but with the dependency on ztable removed
+Imports: Rsolnp, ggplot2, tableHTML
+License: GPL (>= 2)
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: knitr, rmarkdown, pander
+VignetteBuilder: knitr
+NeedsCompilation: no

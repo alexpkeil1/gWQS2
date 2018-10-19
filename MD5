@@ -1,0 +1,15 @@
+9fd8319a295faa47d7d0cee9c9185b36 *DESCRIPTION
+0baeece99a4a04ab81887c8309d068bd *NAMESPACE
+48a70741dee6c5b17058dad8675d7f7d *R/data.R
+bf03cc0a44a1fd451de18aaa42f59b85 *R/gwqs.R
+36534a56001b783ccd6f7f42b3437f72 *R/wqs_helpers.R
+576e86cac6c51e24a65302b6121848e1 *Summary_results.html
+1d7a98b8e930214786ca25367eb9747a *Weights_table.html
+8e2e5a136a2b52d0cb8b76c330d65f9c *build/vignette.rds
+864c8f3c41fd722dbc45130a3870a7d7 *data/wqs_data.RData
+44fb8e0b2fc4949f7c3b0c8b066361f9 *inst/doc/gwqs-vignette.R
+8ee4b31ca2c921edabbbc0e96eaed85a *inst/doc/gwqs-vignette.Rmd
+6af36c3faf1f90f1d076375943aa7683 *inst/doc/gwqs-vignette.html
+1d09dc472191c2d9e67441df08e91714 *man/gwqs.Rd
+d6954c6b94cb086a8ed565aff3f0c5ba *man/wqs_data.Rd
+8ee4b31ca2c921edabbbc0e96eaed85a *vignettes/gwqs-vignette.Rmd
